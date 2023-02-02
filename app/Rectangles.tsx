@@ -21,7 +21,7 @@ export default function Rectangles() {
   return (
     <>
       <Box
-        mt={{ base: "580px", md: "300px", xl: "300px" }}
+        mt={{ base: "620px", md: "300px", xl: "300px" }}
         display="flex"
         flexDirection={{ base: "column", md: "row", xl: "row" }}
         justifyContent={"center"}
