@@ -25,7 +25,7 @@ export default function Pricing() {
       boxShadow="xl"
       borderRadius={"12px 12px 12px 12px"}
       display={{ base: "block", md: "flex" }}
-      maxW={{ base: "350px", md: "1000px" }}
+      maxW={{ base: "310px", md: "1000px" }}
       position={"absolute"}
       top={"280px"}
       left={{ base: "22px", md: "300px", xl: "300px" }}
@@ -34,7 +34,7 @@ export default function Pricing() {
       <Box
         borderRadius={{ base: "12px 12px 0px 0px", md: "12px 0px 0px 12px" }}
         padding={"60px"}
-        maxW={{ base: "350px", md: "378px" }}
+        maxW={{ base: "310px", md: "378px" }}
         bg="#E5E5E5"
         display={"flex"}
         flexDirection="column"
